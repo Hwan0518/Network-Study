@@ -37,8 +37,6 @@
 
 <br>
 
-- HTTP 프로토콜
-
 
 ### Reference
 - https://computer-science-student.tistory.com/377
